@@ -5,6 +5,6 @@
 class trying {
  // Your program begins with a call to main().
  public static void main(String args[]) {
- System.out.println("This is Muya.");
+ System.out.println("This is Muya Kapya.");
  }
 }
