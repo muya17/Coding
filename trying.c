@@ -5,7 +5,7 @@ int main() {
     
     printf("Enter your name: ");
     fgets(name, sizeof(name), stdin);
-    
+    int sum = 0;
     // Remove newline character if present
     for (int i = 0; name[i] != '\0'; i++) {
         if (name[i] == '\n') {
